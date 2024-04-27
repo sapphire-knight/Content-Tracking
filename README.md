@@ -1,4 +1,4 @@
-To add new weenies or receipes please request one through the preferred method https://www.accpp.net/development
+To add new weenies or receipes, please request one through the preferred method https://www.accpp.net/development
 
 To submit new Decal Plugins to the list, upload the plugin in a zip file to the ACCPP Archive https://www.accpp.net/archive
 ZIP should contain:
